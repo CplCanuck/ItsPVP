@@ -6,3 +6,4 @@ team modify nopvp friendlyFire false
 team modify pvp nametagVisibility hideForOwnTeam
 team join nopvp @a[team=]
 scoreboard objectives add refreshTeams dummy
+scoreboard objectives add pvpMarkerRadius dummy
