@@ -1,0 +1,1 @@
+scoreboard players remove @e[type=slime,tag=locator] locatorLife 1
