@@ -3,7 +3,7 @@ team add pvp
 team add nocollision
 team modify nopvp prefix {"text":"[🛡] ","color":"green"}
 team modify pvp prefix {"text":"[⚔] ","color":"dark_red"}
-team modify nocollision color black
+team modify nocollision color green
 team modify nopvp friendlyFire false
 team modify pvp nametagVisibility hideForOwnTeam
 team modify nocollision collisionRule never
