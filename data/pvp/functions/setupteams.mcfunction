@@ -10,3 +10,4 @@ team modify nocollision collisionRule never
 team join nopvp @a[team=]
 scoreboard objectives add refreshTeams dummy
 scoreboard objectives add pvpMarkerRadius dummy
+scoreboard objectives add locatorLife dummy
