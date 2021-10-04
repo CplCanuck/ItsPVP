@@ -1,0 +1,2 @@
+execute if entity @a[team=nopvp, x=5328, y=0, z=-352, dx=319, dy=256, dz=319] run team join pvp @a[team=nopvp, x=5328, y=0, z=-352, dx=319, dy=256, dz=319]
+execute as @a unless entity @s[x=5328, y=0, z=-352, dx=319, dy=256, dz=319] if entity @s[team=pvp] run team join nopvp @s

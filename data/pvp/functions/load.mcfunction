@@ -1,0 +1,1 @@
+tellraw @a[tag=oped] {"text":"PVP Datapack Reloaded!","color":"green"}
